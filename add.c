@@ -1,5 +1,6 @@
 #include <stdio.h>
 nihao
+testing new branch
 int main()
 {
 	int price=0;

@@ -1,5 +1,5 @@
 #include <stdio.h>
-nihao
+dajiahao
 int main()
 {
 	int price=0;
